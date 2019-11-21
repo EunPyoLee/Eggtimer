@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "e376ac9ecacb91f475b317a9b1233d44"
+build_time: [1574292292, 17682000]
+inputs:
+  "/Users/macbookpro/Documents/iosDev/EggTimer/EggTimer/ViewController.swift": [1574292291, 909155085]
+  "/Users/macbookpro/Documents/iosDev/EggTimer/EggTimer/AppDelegate.swift": [1574281840, 67780970]
+  "/Users/macbookpro/Documents/iosDev/EggTimer/EggTimer/SceneDelegate.swift": [1574281840, 96997601]
